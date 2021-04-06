@@ -1,5 +1,6 @@
 # expense-tracker-with-reactjs
 # live run https://expense-tracker-with-reactjs.netlify.app/
+![](Capture.PNG)
 
 # Aim
 Expense-tracker-app will let you moniter your expenses vs your income.
