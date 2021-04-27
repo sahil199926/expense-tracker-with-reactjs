@@ -10,6 +10,6 @@ it help to visualise your daily transaction with the hepl of doughnut chart.
 You can simply use the speech mode to enter your transaction, or you can simply select the categories and respected amount.
 
 # Technologies used
-Liberaries- ReactJs, MaterialUI, Speechly(for Voise to-text), uuid(for providing unique Transaction IDs)
+Liberaries- ReactJs, Redux, MaterialUI, Speechly(for Voise to-text), uuid(for providing unique Transaction IDs)
 Local-Storage is use to remember all privious transaction even if you close the tab.
 
